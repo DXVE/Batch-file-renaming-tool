@@ -2,7 +2,9 @@
 
 一个功能强大的图形化批量重命名工具，专为摄影爱好者和多媒体管理者设计。支持图片、RAW格式、数字图像、视频、音频等多种文件类型，可基于文件元数据（EXIF拍摄时间或修改时间）自动生成规范的文件名，并提供灵活的模板定制和安全的复制模式。
 
-
+<p align="center">
+<img src="https://github.com/DXVE/Batch-file-renaming-tool/blob/main/images/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87.jpg?raw=true" width="576" height="470.5">
+</p>
 
 ## ✨ 功能特点
 
